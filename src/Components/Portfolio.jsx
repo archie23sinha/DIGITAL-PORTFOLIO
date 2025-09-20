@@ -31,28 +31,27 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Cloud Based Disaster Recovery And Management",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Designed to ensure business continuity by providing secure data backup, quick recovery, and efficient disaster response.",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Collab Hub Web Application",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "A collaborative web application designed to streamline communication and teamwork by providing real-time interaction, project management features, and a user-friendly interface.",
+  
   },
   {
-    title: "My Resume Site",
+    title: "Full Stack Blog App",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "A full stack blog application built to enable users to create, edit, and manage posts with secure authentication, a responsive UI, and a scalable backend.",
+    
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Food Ordering Website",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "A responsive food ordering website that allows users to browse menus, add items to cart, and place orders online with an intuitive UI and smooth user experience.",
+    
   },
 ];
 
